@@ -1,0 +1,26 @@
+<snippet>
+	<content><![CDATA[
+<container>
+	<div class="cms-block-item ed-container-handle">
+		<i class="fa fa-minus"></i>
+		<span>{% trans '${1:component name}' %}</span>
+		{% verbatim %}
+			<content data-parent="${2:component-name}">
+				<div class="row">
+					<div class="col-xs-12">
+						<img src="{% media_photo_src '1' size='accommodation_icon' %}" alt="" />
+						${0:\{% textblock %\}\{% endtextblock %\}}
+						{% call_to_action label='Learn More' page='1' btn_class='btn-primary' btn_size='btn-lg' %}
+					</div>
+				</div>
+			</content>
+		{% endverbatim %}
+	</div>
+</container>
+]]></content>
+<tabTrigger>newlayout</tabTrigger>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<!-- <tabTrigger>hello</tabTrigger> -->
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>
