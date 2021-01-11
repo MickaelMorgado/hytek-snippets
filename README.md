@@ -12,4 +12,4 @@
 
 
 
-Note: If you are on a hurry and dont have git installed on pc just simply download as zip file.
+> Note: If you are on a hurry and dont have git installed on pc just simply download as zip file.
