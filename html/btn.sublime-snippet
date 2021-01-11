@@ -1,10 +1,11 @@
 <snippet>
 	<content><![CDATA[
-<a href="#" class="btn btn-default">{% trans 'read more' %}</a>
+<a href="${1}" class="btn btn-${3:default}">{% trans '${2:read more}' %}</a>${0}
 ]]></content>
-<tabTrigger>btn</tabTrigger>
+<tabTrigger>h_btn</tabTrigger>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
 	<!-- <tabTrigger>hello</tabTrigger> -->
 	<!-- Optional: Set a scope to limit where the snippet will trigger -->
 	<!-- <scope>source.python</scope> -->
+<scope>text.html</scope>
 </snippet>

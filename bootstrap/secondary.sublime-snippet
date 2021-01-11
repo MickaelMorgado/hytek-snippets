@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-${0:\$brand-secondary}
+\$brand-secondary
 ]]></content>
 <tabTrigger>secondary</tabTrigger>
 <scope>source.scss</scope>
