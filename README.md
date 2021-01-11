@@ -5,11 +5,11 @@ Install via GIT:
 
   **1 - go to folder:**
 
-    Linux Terminal: 
+  Linux Terminal: 
 
-      `~/.config/sublime-text-3/Packages/User/hytek-snippets/`
+   `~/.config/sublime-text-3/Packages/User/hytek-snippets/`
 
-    Windows CMD: 
+  Windows CMD: 
 
   **2 - git clone the repository**
 
