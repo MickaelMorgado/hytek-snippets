@@ -22,3 +22,8 @@ Notes:
 > May works with sublime-text-2 too, just check for the proper folder paths; 
 
 > If you are on a hurry and dont have git installed on pc just simply download as zip file;
+
+---
+In Action:
+
+![Alt Text](https://raw.githubusercontent.com/MickaelMorgado/hytek-snippets/main/example1.gif)
