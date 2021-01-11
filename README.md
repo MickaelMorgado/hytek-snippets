@@ -7,7 +7,7 @@ Install via GIT:
 
     Linux Terminal: 
 
-      ~/.config/sublime-text-3/Packages/User/hytek-snippets/
+      `~/.config/sublime-text-3/Packages/User/hytek-snippets/`
 
     Windows CMD: 
 
